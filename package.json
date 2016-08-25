@@ -8,10 +8,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/entozoon/atom-disable-mru.git"
+    "url": "https://github.com/entozoon/atom-disable-mru-tabbing.git"
   },
   "bugs": {
-    "url": "https://github.com/entozoon/atom-disable-mru/issues"
+    "url": "https://github.com/entozoon/atom-disable-mru-tabbing/issues"
   },
   "license": "MIT"
 }
