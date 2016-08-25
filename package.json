@@ -1,0 +1,17 @@
+{
+  "name": "disable-mru-tabbing",
+  "version": "0.0.1",
+  "description": "Stop predictive ctrl-tab tabbing behaviour",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/entozoon/atom-disable-mru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/entozoon/atom-disable-mru/issues"
+  },
+  "license": "MIT"
+}
