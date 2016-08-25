@@ -10,4 +10,5 @@ https://github.com/atom/atom/issues/11462#issuecomment-209875381
 
 * In Atom, open *Settings* (*Preferences* on Mac)
 * Go to *Install* section
-* Search for `disable-mru-tabbing` package. Once it found, click `Install` button to install package.
+* Search for `disable-mru-tabbing` package. Once found, click `Install` button.
+* Done!
